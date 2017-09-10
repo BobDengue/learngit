@@ -1,3 +1,3 @@
 owned by Deng.
 Git.
-git is a free software.
+git is a free software with GPL.
